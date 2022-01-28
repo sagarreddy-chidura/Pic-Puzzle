@@ -11,8 +11,10 @@
 - This project is made using Java and Java Swing.
 - This is a DSA based project.
 
-**contact**
+**Contact**
 
 Hi, this is Sagar Reddy Chidura.
-Mobile:9912016613
+
+Mobile:9912016613.
+
 G-mail: chidurareddy63@gmail.com
