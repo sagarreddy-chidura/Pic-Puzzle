@@ -15,8 +15,8 @@ DSA based Java Swing project.
 
 **Contact**
 
-Hi, this is Sagar Reddy Chidura.
+Sagar Reddy Chidura.
 
-Mobile:9912016613.
+Mobile: (+91) 9912016613.
 
 G-mail: chidurareddy63@gmail.com
