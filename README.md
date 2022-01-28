@@ -6,11 +6,13 @@
 - The instruction is given at top about how they can use the pic given in instructions to swap the pics adjacent to it.
 - After completing the puzzle they can click on sample pic to get the next puzzle.
 
-** Technologies used **
+**Technologies Used**
+
 - This project is made using Java and Java Swing.
 - This is a DSA based project.
 
 **contact**
+
 Hi, this is Sagar Reddy Chidura.
 Mobile:9912016613
 G-mail: chidurareddy63@gmail.com
