@@ -1,4 +1,5 @@
 # Pic-Puzzle
+DSA based Java Swing project.
 **About**
 - This is a DSA based project.
 - This project is about creating picpuzzle game.
