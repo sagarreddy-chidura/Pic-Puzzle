@@ -1,5 +1,6 @@
 # Pic-Puzzle
 **About**
+- This is a DSA based project.
 - This project is about creating picpuzzle game.
 - The pic puzzle is nothing but it will give parts of pic then we have to arrange them to make pic like the sample pic.
 - Sample pic is given side by the puzzle to construct according to it. 
@@ -9,7 +10,6 @@
 **Technologies Used**
 
 - This project is made using Java and Java Swing.
-- This is a DSA based project.
 
 **Contact**
 
